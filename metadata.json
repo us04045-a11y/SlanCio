@@ -1,0 +1,7 @@
+{
+  "name": "slancio",
+  "description": "slancio is a global AI advertising agency and creative studio creating cinematic, polished campaigns for world-class brands. What if is where we begin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
